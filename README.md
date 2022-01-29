@@ -45,7 +45,7 @@
 Example:
   
   <a href="https://codewithkunal404.github.io/Jquery_tutorial/heading.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/heading.html">SourceCode</a>
+  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/heading.html">SourceCode</a>
 
 <br>
 
