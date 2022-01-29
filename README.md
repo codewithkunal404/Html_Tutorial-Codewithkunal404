@@ -75,7 +75,7 @@ Example:
                    <a href="url">link text</a>
                    <a> element is the href attribute, which indicates the link's destination.
                    
-<li>HTML Links - The target Attribute</li>
+#### HTML Links - The target Attribute
 
 <li>_self - Default. Opens the document in the same window/tab as it was clicked</li>
 <li>_blank - Opens the document in a new window or tab</li>
@@ -86,3 +86,37 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/link.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/link.html">SourceCode</a>
+  
+  <br>
+  
+># E. Html Images
+<li>Images can improve the design and the appearance of a web page.</li>
+<br>
+<p> The <img> tag has two required attributes:<br>
+src - Specifies the path to the image <br>
+alt - Specifies an alternate text for the image</p>
+<br>
+
+<li> Syntax:
+            
+              <img src="url" alt="alternatetext">
+          
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/image.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/image.html">SourceCode</a>
+         
+          
+ <br>
+          
+># F. HTML Comment Tag
+          
+<li>HTML comments are not displayed in the browser, but they can help document your HTML source code in future</li>    
+<li> Syntax </li>
+
+             <!-- This is a comment -->
+
+         <p>This is a paragraph.</p>
+
+         <!-- Remember to add more information here -->
+
