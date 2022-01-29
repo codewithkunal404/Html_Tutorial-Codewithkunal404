@@ -44,7 +44,7 @@
 
 Example:
   
-  <a href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/heading.html">RunCode</a>///////////
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/heading.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/heading.html">SourceCode</a>
 
 <br>
@@ -57,7 +57,7 @@ Example:
 
 Example:
   
-  <a href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/paragraph.html">RunCode</a>///////////
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/paragraph.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/paragraph.html">SourceCode</a>
 
 
