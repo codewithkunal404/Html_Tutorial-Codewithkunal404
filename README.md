@@ -60,4 +60,29 @@ Example:
   <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/paragraph.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/paragraph.html">SourceCode</a>
 
+<br>
 
+># D. HTML Links - Hyperlinks
+
+<li>HTML links are hyperlinks.</li>
+
+<li>You can click on a link and jump to another document.</li>
+
+<li>When you move the mouse over a link, the mouse arrow will turn into a little hand.</li>
+         
+  Syntax:       
+                   
+                   <a href="url">link text</a>
+                   <a> element is the href attribute, which indicates the link's destination.
+                   
+<li>HTML Links - The target Attribute</li>
+
+<li>_self - Default. Opens the document in the same window/tab as it was clicked</li>
+<li>_blank - Opens the document in a new window or tab</li>
+<li>_parent - Opens the document in the parent frame </li>
+<li>_top - Opens the document in the full body of the window</li>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/link.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/link.html">SourceCode</a>
