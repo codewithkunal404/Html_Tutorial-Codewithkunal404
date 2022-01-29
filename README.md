@@ -42,11 +42,22 @@
 
 <li>HTML headings are defined with the h1 to h6 tags.</li>
 
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/heading.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/heading.html">SourceCode</a>
+
 <br>
 
 
 ># C .HTML Paragraphs
 
 <li>The HTML p tag defines a paragraph.</li>
+
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Jquery_tutorial/paragraph.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Jquery_tutorial/blob/main/paragraph.html">SourceCode</a>
 
 
