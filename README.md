@@ -34,3 +34,19 @@
 <li>Notepad</li>
 <li>Notepad++</li>
 <li>Sublime</li>
+<br>
+<br>
+
+
+># B. HTML Headings
+
+<li>HTML headings are defined with the h1 to h6 tags.</li>
+
+<br>
+
+
+># C .HTML Paragraphs
+
+<li>The HTML p tag defines a paragraph.</li>
+
+
