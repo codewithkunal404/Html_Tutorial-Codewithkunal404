@@ -140,5 +140,88 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/formatting.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/formatting.html">SourceCode</a>
+  
+  <br>
+  
+ # HTML Block and Inline Elements
+ <li>There are two display values: block and inline.</li>
+ <br>
+ 
+ ### Block-level Elements:
+ <li>A block-level element always starts on a new line.</li>
+ <li>A block level element has a top and a bottom margin, whereas an inline element does not.</li>
+ <br>
+ Here are the block-level elements in HTML:
+
+     <address>
+     <article>
+     <aside>
+     <blockquote>
+     <canvas>
+     <dd>
+     <div>
+     <dl>
+     <dt>
+     <fieldset>
+     <figcaption>
+     <figure>
+     <footer>
+     <form>
+     <h1>-<h6>
+     <header>
+     <hr>
+     <li>
+     <main>
+     <nav>
+     <noscript>
+     <ol>
+     <p>
+     <pre>        
+     <section>
+     <table>
+     <tfoot>
+     <ul>
+     <video>
+     
+     
+     
+### Inline Elements
+<li>An inline element does not start on a new line.</li>
+<br>
+<li>Here are the inline elements in HTML:</li>
+
+    <a>
+    <abbr>
+    <acronym>
+    <b>
+    <bdo>
+    <big>
+    <br>
+    <button>
+    <cite>
+    <code>
+    <dfn>
+    <em>
+    <i>
+    <img>
+    <input>
+    <kbd>
+    <label>
+    <map>
+    <object>
+    <output>
+    <q>
+    <samp>
+    <script>
+    <select>
+    <small>
+    <span>
+    <strong>
+    <sub>
+    <sup>
+    <textarea>
+    <time>
+    <tt>
+    <var>
 
 
