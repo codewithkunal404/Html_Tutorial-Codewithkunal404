@@ -143,6 +143,8 @@ Example:
   
   <br>
   
+  
+  
  ># H. HTML Block and Inline Elements
  <li>There are two display values: block and inline.</li>
  <br>
@@ -229,3 +231,14 @@ Example:
   <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/inline_block.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/inline_block.html">SourceCode</a>
   
+<br>
+
+># I. HTML Favicon
+<li>A favicon is a small image displayed on the page title in the browser tab.</li>
+<li>This is tag is used next to title tag inside the head tag
+<li>syntax</li>
+   
+     <head>
+          <title></title>
+     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+     </head>
