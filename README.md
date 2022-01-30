@@ -119,4 +119,26 @@ Example:
          <p>This is a paragraph.</p>
 
          <!-- Remember to add more information here -->
+         
+<br>
+
+# HTML Formatting Elements
+<li>Formatting elements were designed to display special types of text:</li>
+
+     <b> - Bold text
+     <strong> - Important text
+     <i> - Italic text
+     <em> - Emphasized text
+     <mark> - Marked text
+     <small> - Smaller text
+     <del> - Deleted text
+     <ins> - Inserted text
+     <sub> - Subscript text
+     <sup> - Superscript text
+     
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/formatting.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/formatting.html">SourceCode</a>
+
 
