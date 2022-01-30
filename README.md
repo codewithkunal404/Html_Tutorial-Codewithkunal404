@@ -226,6 +226,6 @@ Example:
 
 Example:
   
-  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/inllne_block.html">RunCode</a>///////////
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/inline_block.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/inline_block.html">SourceCode</a>
   
