@@ -231,62 +231,6 @@ Example:
   <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/inline_block.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/inline_block.html">SourceCode</a>
   
-<br>
-
-># I. HTML Favicon
-<li>A favicon is a small image displayed on the page title in the browser tab.</li>
-<li>This is tag is used next to title tag inside the head tag
-<li>syntax</li>
-   
-     <head>
-          <title></title>
-     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-     </head>
-
-Example:
-  
-  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/favicon.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/favicon.html">SourceCode</a>
-  
-  <br>
 
 
-># J. HTML iframe tag
 
-<li>An HTML iframe is used to display a web page within a web page.</li>
-
-<li>The HTML <iframe> tag specifies an inline frame.</li>
-
-<li>An inline frame is used to embed another document within the current HTML document.</li>
-
-<li>Syntax</li>
-
-     <iframe src="url" title="description"></iframe>
-     
-<br>
-
-#### Set Height and Width
-Syntax:
-
-     <iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
-     
-<br>
-
-#### Remove the Border
-Syntax:
-
-      <iframe src="demo_iframe.htm" style="border:none;" title="Iframe Example"></iframe>
-<br>
-
-#### Target for a Link
-Syntax:
-
-     <iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
-
-     <p><a href="https://www.google.co.in" target="iframe_name">Google</a></p>
-
-<br>
-Example:
-  
-  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/iframe.html">RunCode</a>///////////
-  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/iframe.html">SourceCode</a>
