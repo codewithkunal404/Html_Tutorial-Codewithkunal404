@@ -122,7 +122,7 @@ Example:
          
 <br>
 
-# HTML Formatting Elements
+># G. HTML Formatting Elements
 <li>Formatting elements were designed to display special types of text:</li>
 
      <b> - Bold text
@@ -143,7 +143,7 @@ Example:
   
   <br>
   
- # HTML Block and Inline Elements
+ ># H. HTML Block and Inline Elements
  <li>There are two display values: block and inline.</li>
  <br>
  
