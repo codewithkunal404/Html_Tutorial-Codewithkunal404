@@ -242,3 +242,8 @@ Example:
           <title></title>
      <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
      </head>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/favicon.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/favicon.html">SourceCode</a>
