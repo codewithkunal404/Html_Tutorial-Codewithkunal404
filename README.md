@@ -232,5 +232,57 @@ Example:
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/inline_block.html">SourceCode</a>
   
 
+<br>
 
+<br>
 
+ ># I. HTML Elements
+ <li>The HTML element is everything from the start tag to the end tag:</li>
+ <li>The HTML element is not case sensitive.
+
+     <tagname>Content goes here...</tagname>
+     
+<li>Examples of some HTML elements:</li>
+
+          
+         <h1>My First Heading</h1>
+         <p>My first paragraph.</p>
+         
+#### Types of Element:
+<li>Closed tag: those tag just like </li>
+         
+         <starttag>..............</endtag> example: <h1>.....</h1>,<p>......</p> etc....
+         
+         
+<li>Empty tag: those tag just like,havenot closed tag </li>
+
+         <starttag> example: <br> <hr> etc......
+         
+         
+         
+         
+  <br>
+  
+  
+  <br>
+  
+ ># J. HTML Attributes
+<li>All HTML elements can have attributes</li>
+<li>Attributes provide additional information about elements</li>
+<li>Attributes are always specified in the start tag</li>
+<li>Attributes usually come in name/value pairs like: name="value"</li>
+<li>syntax:</li>
+
+     <tag_name attribute_name="value">........</tagname>
+  
+  
+<li>Example:</li>
+    
+       <a href="https://www.google.co.in">Google</a>
+       <img src="banner.png" alt="banner1" width="300px" height="400px">
+       
+<li>Here above examples such as href , src , alt , width , height are all attributes used  inside the starttags</li>
+
+       
+       
+     
