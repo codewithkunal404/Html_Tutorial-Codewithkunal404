@@ -271,6 +271,7 @@ Example:
 <li>Attributes provide additional information about elements</li>
 <li>Attributes are always specified in the start tag</li>
 <li>Attributes usually come in name/value pairs like: name="value"</li>
+<li>value always in double quotes</li>
 <li>syntax:</li>
 
      <tag_name attribute_name="value">........</tagname>
