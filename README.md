@@ -299,12 +299,33 @@ Example:
          <form>, <table>, and <article> - Clearly defines its content.
          
 
-### non-Semantic elements = elements with a meaning.
+### non-Semantic elements = elements have no clear meaning.
 <li>Examples of non-semantic elements: </li>
           
           <div> and <span> - Tells nothing about its content.
-  
-  
 
+
+## Semantic elements are :
+      <article>
+      <aside>
+      <details>
+      <figcaption>
+      <figure>
+      <footer>
+      <header>
+      <main>
+      <mark>
+      <nav>
+      <section>
+      <summary>
+      <time>
+  <br>
+
+Example:
+  
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/heading.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/heading.html">SourceCode</a>
+  
+  
 
      
