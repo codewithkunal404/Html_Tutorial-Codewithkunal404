@@ -284,6 +284,27 @@ Example:
        
 <li>Here above examples such as href , src , alt , width , height are all attributes used  inside the starttags</li>
 
-       
-       
+
+
+<br>
+
+
+
+># K. Semantic Elements vs non-Semantic Elements in HTML?
+
+### Semantic elements = elements with a meaning.
+
+<li>Examples of semantic elements:</li>
+         
+         <form>, <table>, and <article> - Clearly defines its content.
+         
+
+### non-Semantic elements = elements with a meaning.
+<li>Examples of non-semantic elements: </li>
+          
+          <div> and <span> - Tells nothing about its content.
+  
+  
+
+
      
