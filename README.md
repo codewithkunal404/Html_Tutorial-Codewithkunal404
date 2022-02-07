@@ -325,7 +325,30 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/heading.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/heading.html">SourceCode</a>
-  
-  
+ 
+ 
+ 
 
+
+># L. HTML LIST
+<li> html list allows user to show any topic  related items by using order list or unorder list.
+<li> It also use for subheading parts.        
      
+          
+#### HTML List tags
+          
+          <ul>	Defines an unordered list
+          <ol>   	Defines an ordered list
+          <li>	Defines a list item
+          <dl>	Defines a description list
+          <dt>	Defines a term in a description list
+          <dd>	Describes the term in a description list
+                    
+ <br>
+   Example:
+  
+  <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/heading.html">RunCode</a>///////////
+  <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/heading.html">SourceCode</a>
+ 
+ 
+         
