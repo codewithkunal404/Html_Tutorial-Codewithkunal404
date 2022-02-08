@@ -334,7 +334,11 @@ Example:
 <li> html list allows user to show any topic  related items by using order list or unorder list.
 <li> It also use for subheading parts.        
      
-          
+#### HTML List types are
+<li>Ordered list</li> 
+<li>Unordered list </li>
+<li>Description list </li>
+
 #### HTML List tags
           
           <ul>	Defines an unordered list
