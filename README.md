@@ -363,13 +363,30 @@ Example:
  #### Related Tags-
            
            
-    <table>   Defines a table
+    <table>     Defines a table
               
     <th>	    Defines a header cell in a table
               
     <tr>	    Defines a row in a table
               
     <td>	    Defines a cell in a table
+ 
+
+ ### Related attribute
+    
+              bgcolor
+              border
+              align
+              valign
+              color
+              width
+              height
+              cellpadding
+              cellspacing
+              rowspan
+              colspan
+              
+              
               
 
          
