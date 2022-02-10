@@ -2,7 +2,7 @@
 <br>
 <br>
 
-># A. What is HTML ?
+># What is HTML ?
 <li>Html stands for hypertext markup language</li>
 <li>HTML is the standard markup language for creating Web pages</li>
 <li>HTML describes the structure of a Web page</li>
@@ -38,7 +38,7 @@
 <br>
 
 
-># B. HTML Headings
+>#  HTML Headings
 
 <li>HTML headings are defined with the h1 to h6 tags.</li>
 
@@ -50,7 +50,7 @@ Example:
 <br>
 
 
-># C .HTML Paragraphs
+># HTML Paragraphs
 
 <li>The HTML p tag defines a paragraph.</li>
 
@@ -62,7 +62,7 @@ Example:
 
 <br>
 
-># D. HTML Links - Hyperlinks
+>#  HTML Links - Hyperlinks
 
 <li>HTML links are hyperlinks.</li>
 
@@ -89,7 +89,7 @@ Example:
   
   <br>
   
-># E. Html Images
+>#  Html Images
 <li>Images can improve the design and the appearance of a web page.</li>
 <br>
 <p> The <img> tag has two required attributes:<br>
@@ -109,7 +109,7 @@ Example:
           
  <br>
           
-># F. HTML Comment Tag
+>#  HTML Comment Tag
           
 <li>HTML comments are not displayed in the browser, but they can help document your HTML source code in future</li>    
 <li> Syntax </li>
@@ -122,7 +122,7 @@ Example:
          
 <br>
 
-># G. HTML Formatting Elements
+># HTML Formatting Elements
 <li>Formatting elements were designed to display special types of text:</li>
 
      <b> - Bold text
@@ -236,7 +236,7 @@ Example:
 
 <br>
 
- ># I. HTML Elements
+ ># HTML Elements
  <li>The HTML element is everything from the start tag to the end tag:</li>
  <li>The HTML element is not case sensitive.
 
@@ -266,7 +266,7 @@ Example:
   
   <br>
   
- ># J. HTML Attributes
+ >#  HTML Attributes
 <li>All HTML elements can have attributes</li>
 <li>Attributes provide additional information about elements</li>
 <li>Attributes are always specified in the start tag</li>
@@ -330,7 +330,7 @@ Example:
  
 
 
-># L. HTML LIST
+>#  HTML LIST
 <li> html list allows user to show any topic  related items by using order list or unorder list.
 <li> It also use for subheading parts.        
      
@@ -353,6 +353,23 @@ Example:
   
   <a href="https://codewithkunal404.github.io/Html_Tutorial-Codewithkunal404/list.html">RunCode</a>///////////
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/list.html">SourceCode</a>
+ <br>
  
  
+ ># HTML Tables
+ <li>  A collection of rows and columns
+ <li>  example student record etc...
+  
+ #### Related Tags-
+           
+           
+    <table>   Defines a table
+              
+    <th>	    Defines a header cell in a table
+              
+    <tr>	    Defines a row in a table
+              
+    <td>	    Defines a cell in a table
+              
+
          
