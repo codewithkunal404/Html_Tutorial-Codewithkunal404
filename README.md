@@ -393,6 +393,9 @@ Example:
   <a  href="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/table.html">SourceCode</a>
  <br>
  
+#### Table Template:
+          
               
+<img src="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/src/Screenshot%202022-02-15%20210948.png" width="200px">
 
          
