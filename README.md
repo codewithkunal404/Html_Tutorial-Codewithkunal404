@@ -427,7 +427,7 @@ Example:
   #### nested Table Template:
           
               
-<img src="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/src/nested.png" width="200px">
+<img src="https://github.com/codewithkunal404/Html_Tutorial-Codewithkunal404/blob/main/src/nested.png" width="300px">
  <br>
    Example:
   
